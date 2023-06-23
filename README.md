@@ -8,7 +8,7 @@ Julia is a new programming language developed for scientific and numerical progr
 
 **Course Program**
 
-#### Day 1
+#### [Day 1](Classess/dayone.ipynb)
 
 - [x] Introduction to the course
 - [x] Introduction to Julia
