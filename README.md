@@ -10,6 +10,7 @@ Julia is a new programming language developed for scientific and numerical progr
 
 #### Day 1
 
+- [x] Introduction to the course
 - [x] Introduction to Julia
 - [x] Julia community
 - [x] Configuring Julia set up
