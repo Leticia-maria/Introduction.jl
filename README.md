@@ -23,6 +23,8 @@ Julia is a new programming language developed for scientific and numerical progr
 #### Day 2
 
 - [x] Data Structures in Julia
+- [x] DataFrames in Julia
+- [x] File I/O in Julia
 - [x] Plotting in Julia
 - [x] Scientific plotting
 
