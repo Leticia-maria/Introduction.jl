@@ -20,6 +20,9 @@ Julia is a new programming language developed for scientific and numerical progr
 - [x] Julia basics (packages)
 - [x] Julia basics (multiple dispatch)
 
+#### Day 2
+- [x] Exercise 1 (in groups)
+
 #### Day 3
 
 - [x] Data Structures in Julia
