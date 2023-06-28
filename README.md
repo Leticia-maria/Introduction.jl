@@ -20,7 +20,7 @@ Julia is a new programming language developed for scientific and numerical progr
 - [x] Julia basics (packages)
 - [x] Julia basics (multiple dispatch)
 
-#### Day 2
+#### Day 3
 
 - [x] Data Structures in Julia
 - [x] DataFrames in Julia
@@ -28,19 +28,19 @@ Julia is a new programming language developed for scientific and numerical progr
 - [x] Plotting in Julia
 - [x] Scientific plotting
 
-#### Day 3
+#### Day 4
 
 - [x] Numerical computing
 - [x] Parallelization
 - [x] GPU computing
 
-#### Day 4
+#### Day 5
 
 - [x] Molecular modelling
 - [x] Molecular dynamics
 - [x] Quantum chemistry
 
-#### Day 5
+#### Day 6
 
 - [x] Machine learning
 - [x] Deep learning
