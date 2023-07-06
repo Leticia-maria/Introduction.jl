@@ -62,6 +62,6 @@ This repository contains the material used in the workshop. You can clone it and
 
 **About Me**
 
-Leticia Madureira is a quantum chemist and computer scientist trying to solve problems with computers, from math background to machine learning predictions. She currently does scientific divulgation on Github and Youtube as an active contributor to Julia language. She has just started her PhD at CMU (Carnegie Mellon University) and joined Gomes group.  
+Leticia Madureira is a quantum chemist and computer scientist trying to solve problems with computers, from math background to machine learning predictions. She currently does scientific divulgation on Github and Youtube as an active contributor to Julia language.  
 
 - [My Youtube channel](https://www.youtube.com/channel/UCjGH-n0jtFDtaWAfC0LEE6w)
